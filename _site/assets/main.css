@@ -9,7 +9,7 @@ main {
 
 /*** wrapper div for both header and main ***/
 .wrapper {
-  margin-top: 10%; }
+  margin-top: 5%; }
 
 /*** anchor tags ***/
 a:link,
@@ -40,11 +40,11 @@ since it must be aligned with the content */
 
 /*** logo ***/
 .logo-container {
-  text-align: center; }
+  text-align: left; }
 
 .logo {
-  width: 120px;
-  height: 120px;
+  width: 40px;
+  height: 40px;
   display: inline-block;
   background-size: cover;
   border-radius: 50%;
@@ -105,15 +105,15 @@ footer {
   aligned right */
   header {
     float: left;
-    width: 20%;
-    text-align: right; }
+    width: 10%;
+    text-align: left; }
+
+  main {
+    width: 120%;
+    margin-left: 5%;
+    padding: 0; }
 
   .author-container h1,
   .logo-container,
   .tagline-container p {
-    text-align: right; }
-
-  main {
-    width: 120%;
-    margin-left: 0%;
-    padding: 0; } }
+    text-align: right; } }
