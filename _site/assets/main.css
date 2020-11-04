@@ -43,8 +43,8 @@ since it must be aligned with the content */
   text-align: left; }
 
 .logo {
-  width: 40px;
-  height: 40px;
+  width: 42px;
+  height: 42px;
   display: inline-block;
   background-size: cover;
   border-radius: 50%;
