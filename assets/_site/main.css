@@ -105,7 +105,7 @@ footer {
   aligned right */
   header {
     float: left;
-    width: 76%;
+    width: 20%;
     text-align: right; }
 
   .author-container h1,
@@ -114,6 +114,6 @@ footer {
     text-align: right; }
 
   main {
-    width: 76%;
-    margin-left: 24%;
+    width: 120%;
+    margin-left: 1%;
     padding: 0; } }

@@ -43,8 +43,8 @@ since it must be aligned with the content */
   text-align: center; }
 
 .logo {
-  width: 96px;
-  height: 96px;
+  width: 120px;
+  height: 120px;
   display: inline-block;
   background-size: cover;
   border-radius: 50%;
@@ -105,7 +105,7 @@ footer {
   aligned right */
   header {
     float: left;
-    width: 46%;
+    width: 20%;
     text-align: right; }
 
   .author-container h1,
@@ -115,5 +115,5 @@ footer {
 
   main {
     width: 120%;
-    margin-left: 1%;
+    margin-left: 0%;
     padding: 0; } }
